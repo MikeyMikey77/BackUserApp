@@ -1,0 +1,1 @@
+exports.tokenKey = 'mySuperSecretKey25';
