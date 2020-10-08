@@ -5,5 +5,5 @@ exports.pool = mysql.createPool({
     host: "localhost",
     user: "root",
     database: "usersdb",
-    password: "ьнзфыыащкыйд123*"
+    password: "CHANGE_PASS_HERE"
 });
